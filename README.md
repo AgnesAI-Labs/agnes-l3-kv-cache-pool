@@ -7,7 +7,7 @@ This repository publishes a technical architecture and validation specification 
 ## Report
 
 - [Read the full report on GitHub](./REPORT.md)
-- [Download the technical report](./agnes-l3-kv-cache-report.pdf)
+- [Download the technical report](./agnes-l3-kv-cache-report-new.pdf)
 
 ## Architecture
 
